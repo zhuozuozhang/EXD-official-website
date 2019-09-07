@@ -34,6 +34,7 @@
 			<strong>四、图片轮播（包括两个二级页面）:</strong></br></br>
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/image-carousel.png)</br></br></br>
 			<strong>五、点击link跳转到pdf（可根据鼠标键盘放大缩小，支持下载打印）：</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/link-to-pdf.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/link-to-pdf.png)</br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/pdf.png)</br></br></br>
 		<strong>六、触碰交互（有很多地方）:</strong></br></br>
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/transition-style.png)</br></br></br>
