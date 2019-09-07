@@ -23,16 +23,16 @@
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/vDirector.png)</br></br></br>
 			<strong>页面交互部分：</strong></br>
 			<strong>每个页面都有下拉菜单跳转到二级页面:</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/pull-down menu.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/pull-down-menu.png)</br></br></br>
 			<strong>一、首页图片层叠轮播:</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/Picture cascade rotation.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/Picture-cascade-rotation.png)</br></br></br>
 			<strong>二、关于我们页面插入百度地图（多功能）：</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/Baidu Map.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/Baidu-Map.png)</br></br></br>
 		<strong>三、点击出现蒙层图片放大:</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/image magnification.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/image-magnification.png)</br></br></br>
 			<strong>四、图片轮播（包括两个二级页面）:</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/image carousel.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/image-carousel.png)</br></br></br>
 			<strong>五、点击link跳转到pdf（可根据鼠标键盘放大缩小，支持下载打印）：</strong></br></br>
-			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/link to pdf.png)</br></br></br>
+			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/link-to-pdf.png)</br></br></br>
 		<strong>六、触碰交互（有很多地方）:</strong></br></br>
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/transition-style.png)</br></br></br>
