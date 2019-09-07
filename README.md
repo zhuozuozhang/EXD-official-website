@@ -1,11 +1,4 @@
 # EXD-official-website
-<style>
-image {
-	width:50px;
-	height:50px;
-	}
-</style>
-<body>
 智协慧同科技有限公司官网</br>
 <strong>网址：</strong>www.smartsct.com</br>
 或者搜素“智协慧同”都可以看到</br>
@@ -45,4 +38,4 @@ image {
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/pdf.png)</br></br></br>
 		<strong>六、触碰交互（有很多地方）:</strong></br></br>
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/transition-style.png)</br></br></br>
-</body>			
+		
