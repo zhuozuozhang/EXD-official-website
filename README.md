@@ -2,7 +2,8 @@
 智协慧同科技有限公司官网</br>
 <strong>网址：</strong>www.smartsct.com</br>
 或者搜素“智协慧同”都可以看到</br>
-			之后会有改动，我下边的图片只是当时做的</br>
+之后会有改动，我下边的图片只是当时做的</br>
+整个网页交互部分自己纯用原生Js和jQuery手写，没有用任何插件</br>
 		<strong>一、首页：</strong></br></br>
 			![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/index.jpg)</br></br></br>
 		<strong>二、合作企业:</strong></br></br>
