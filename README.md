@@ -1,9 +1,9 @@
 # EXD-official-website
-智协慧同科技有限公司官网</br>
+</br>智协慧同科技有限公司官网</br>
 <strong>网址：</strong>www.smartsct.com</br>
-或者搜素“智协慧同”；“公司名”等等都可以看到</br>
+或者搜素“智协慧同”；“公司名”等等都可以看到</br></br>
 之后会有改动，我下边的图片只是当时做的</br>
-整个网页交互部分自己纯用原生Js和jQuery手写，没有用任何插件</br>
+整个网页交互部分自己纯用原生Js和jQuery手写，没有用任何插件</br></br>
 <strong>经过好几次迭代完成（下图有详细的信息）</strong></br></br>
 ![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/bitbucket.png)</br></br>
 ![image](https://github.com/xiaola66/EXD-official-website/blob/master/photo/bitbucket2.png)</br></br>
